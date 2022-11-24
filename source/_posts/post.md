@@ -9,3 +9,7 @@ listen, the hexo site generator is the new one I have ever tryed.
 
 ## wow
 did I success?
+
+
+### test
+Can I run the deploy command to update the site
